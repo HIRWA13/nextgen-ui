@@ -37,10 +37,10 @@ const Footer = () => {
             <div>
               <h3 className="text-lg font-semibold mb-4 text-gray-900">Contact Us</h3>
               <ul className="space-y-2 text-gray-500">
-                <li>contact@example.com</li>
-                <li>+1 (555) 123-4567</li>
-                <li>123 Tech Street</li>
-                <li>San Francisco, CA 94107</li>
+                <li>junior.hirwa@gmail.com</li>
+                <li>+(250) 787 296 874</li>
+                <li>Ojemba Rwanda</li>
+                <li>Kigali Rwanda</li>
               </ul>
             </div>
           </div>
